@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4904748-93f8-4524-974f-c9f30a88289e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/crudreact/src/components/create.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudreact/src/components/edit.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudreact/src/components/index.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crudreact/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/crudreact/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crudreact/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/crudreact/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crudreact/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/crudreact/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crudreact/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/crudreact/src/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/crudreact" />
+  </component>
+  <component name="ProjectId" id="1R5UY1285OLrpvfDF7bwvmo5DVN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4904748-93f8-4524-974f-c9f30a88289e" name="Default Changelist" comment="" />
+      <created>1568956494261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568956494261</updated>
+      <workItem from="1568956498293" duration="12317000" />
+      <workItem from="1569210295940" duration="1539000" />
+      <workItem from="1569214703293" duration="2777000" />
+      <workItem from="1569234199881" duration="564000" />
+      <workItem from="1569295844325" duration="1466000" />
+      <workItem from="1569319229055" duration="581000" />
+      <workItem from="1569817448196" duration="3962000" />
+      <workItem from="1569838767277" duration="1157000" />
+      <workItem from="1569901720536" duration="1071000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
